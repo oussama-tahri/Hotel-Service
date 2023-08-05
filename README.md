@@ -6,7 +6,7 @@ This project is a Hotel Service Application that provides functionalities to man
 
 ## Technologies Used
 
-- Java: The core programming language used for backend development.
+- Java: The core programming language used for backend development. 
 - Spring Boot: The framework used to build the application, providing dependency injection, MVC architecture, and more.
 - Spring Data JPA: Simplifies working with databases by providing JPA implementation for data access.
 - Hibernate: The ORM (Object-Relational Mapping) tool used to map Java objects to database entities.

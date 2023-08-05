@@ -99,5 +99,3 @@ To ensure secure access to certain endpoints (e.g., reservation-related endpoint
 ## Contribution
 
 Contributions to the project are welcome! Feel free to create pull requests for bug fixes, improvements, or additional features.
-
----"

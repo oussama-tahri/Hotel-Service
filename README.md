@@ -10,7 +10,7 @@ This project is a Hotel Service Application that provides functionalities to man
 - Spring Boot: The framework used to build the application, providing dependency injection, MVC architecture, and more.
 - Spring Data JPA: Simplifies working with databases by providing JPA implementation for data access.
 - Hibernate: The ORM (Object-Relational Mapping) tool used to map Java objects to database entities.
-- H2 Database: An in-memory database used for testing and development purposes.
+- PostgreSQL: The relational database management system used for data storage.
 - JSON Web Token (JWT): For secure authentication and authorization of users.
 - Maven: The build tool used for managing project dependencies and packaging.
 - Git: Version control system for collaborative development.

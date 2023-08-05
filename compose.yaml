@@ -1,0 +1,18 @@
+services:
+  postgres:
+    image: 'postgres:latest'
+    environment:
+      - 'POSTGRES_DB=hotel_db'
+      - 'POSTGRES_PASSWORD=1234'
+      - 'POSTGRES_USER=user'
+    ports:
+      - '5432'
+
+  pgadmin:
+    image: 'dpage/pgadmin4:latest'
+    environment:
+      PGADMIN_DEFAULT_EMAIL: tahrioussama.ot@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: 1234
+      PGADMIN_LISTEN_PORT: 5050
+    ports:
+      - '5050:5050'
